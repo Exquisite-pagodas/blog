@@ -1,0 +1,5 @@
+# 和.gitignore一样
+# 那些文件不需要格式化
+# Ignore artifacts:
+build
+coverage
